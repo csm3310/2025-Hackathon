@@ -220,4 +220,4 @@ STT 서버에 연결할 수 없습니다
 
 ---
 
-**Made with ❤️ for Hackathon 2024**
+**Made with ❤️ for Hackathon 2025**
